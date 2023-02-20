@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/carnavalVnW/static/css/main.6db8f24f.css",
+    "main.js": "/carnavalVnW/static/js/main.1a51e917.js",
+    "static/js/787.2cfa65ce.chunk.js": "/carnavalVnW/static/js/787.2cfa65ce.chunk.js",
+    "static/media/fada.png": "/carnavalVnW/static/media/fada.6f43c2712620475c198a.png",
+    "static/media/zumbi.png": "/carnavalVnW/static/media/zumbi.2cd91e632f30f3ad5a8b.png",
+    "static/media/bruxa.png": "/carnavalVnW/static/media/bruxa.0879a4753626f4122b85.png",
+    "static/media/vampiro.png": "/carnavalVnW/static/media/vampiro.fa6d9b0b56f44ca0432c.png",
+    "static/media/pirata.png": "/carnavalVnW/static/media/pirata.46eb4ea58eaf0c7abaaa.png",
+    "static/media/fantasma.png": "/carnavalVnW/static/media/fantasma.5ed6797f0a4e0626571f.png",
+    "index.html": "/carnavalVnW/index.html",
+    "main.6db8f24f.css.map": "/carnavalVnW/static/css/main.6db8f24f.css.map",
+    "main.1a51e917.js.map": "/carnavalVnW/static/js/main.1a51e917.js.map",
+    "787.2cfa65ce.chunk.js.map": "/carnavalVnW/static/js/787.2cfa65ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6db8f24f.css",
+    "static/js/main.1a51e917.js"
+  ]
+}
